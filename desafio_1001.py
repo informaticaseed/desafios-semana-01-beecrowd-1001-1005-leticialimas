@@ -20,3 +20,8 @@ B = int(input())
 X = A + B
 
 print(f"X = {X}")
+Se a entrada for:
+10
+9
+A saída será:
+X = 19
